@@ -1,0 +1,1 @@
+Influenza | influenza_healthcare_ICUHDUadmissionRateByWeek | 2018-01-01 | conflicting values [0.4, 0.51] averaged to 0.455 (flagged uncertain)
